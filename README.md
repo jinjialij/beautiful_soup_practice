@@ -1,5 +1,5 @@
-# Assignment 2
-
+# Beautiful soup practice
+This is a practice using beautiful soup to crawl a website.
 BestbuyCrawller will crawl Best Buy <https://www.bestbuy.ca> and print page title and product information.
 
 * Date Created: 02 10 2019
